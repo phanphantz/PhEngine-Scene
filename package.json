@@ -1,0 +1,17 @@
+{
+  "name": "com.phun.phengine.scene",
+  "displayName": "PhEngine Scene",
+  "version": "0.1.1",
+  "description": "PhEngine Scene package",
+  "keywords": [],
+  "dependencies": {
+    "com.phun.phengine.core": "",
+    "com.phun.phengine.ui": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phanphantz/PhEngine-Scene"
+  },
+  "license": "MIT",
+  "author": "Phun Peeticharoenthum"
+}

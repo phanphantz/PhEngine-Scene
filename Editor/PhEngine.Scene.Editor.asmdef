@@ -1,0 +1,20 @@
+{
+    "name": "PhEngine.Scene.Editor",
+    "rootNamespace": "",
+    "references": [
+        "PhEngine.Scene",
+        "PhEngine.Core.Editor",
+        "PhEngine.Core"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

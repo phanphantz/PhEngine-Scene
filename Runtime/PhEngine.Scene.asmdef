@@ -1,0 +1,17 @@
+{
+    "name": "PhEngine.Scene",
+    "rootNamespace": "",
+    "references": [
+        "PhEngine.Core",
+        "PhEngine.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
